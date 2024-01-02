@@ -1,0 +1,31 @@
+Output for 15 levels and fuel capacity is 200
+Astar_1step: 
+Path: ['Start', 'firstLevel8', 'secondLevel8', 'thirdLevel10', 'fourthLevel4', 'fifthLevel17', 'Station29', 'sixthLevel5', 'seventhLevel3', 'eighthLevel13', 'ninthLevel17', 'tenthLevel16', 'eleventhLevel9', 'twelfthLevel9', 'thirteenthLevel12', 'fourteenthLevel11', 'Station4', 'fifteenthLevel13', 'Finish'] 
+Distance travelled: 500.0409581391214 
+Node Expanded: 20 
+
+
+Astar_2step: 
+Path: ['Start', 'firstLevel3', 'secondLevel15', 'thirdLevel5', 'fourthLevel12', 'fifthLevel7', 'sixthLevel9', 'seventhLevel15', 'eighthLevel14', 'Station11', 'ninthLevel6', 'tenthLevel2', 'eleventhLevel11', 'twelfthLevel9', 'thirteenthLevel12', 'fourteenthLevel12', 'fifteenthLevel11', 'Finish'] 
+Distance travelled: 375.29451713954995 
+Node Expanded: 36 
+
+
+GreedyBFSforAI: 
+Path: ['Start', 'firstLevel1', 'secondLevel1', 'thirdLevel5', 'Station12', 'fourthLevel1', 'fifthLevel1', 'sixthLevel7', 'seventhLevel8', 'Station10', 'eighthLevel1', 'ninthLevel1', 'tenthLevel1', 'eleventhLevel3', 'twelfthLevel6', 'thirteenthLevel1', 'fourteenthLevel7', 'Station1', 'fifteenthLevel1', 'Finish'] 
+Distance travelled: 695.8181507107071 
+Node Expanded: 30 
+
+
+Greedy: 
+Path: ['Start', 'firstLevel16', 'secondLevel14', 'thirdLevel3', 'fourthLevel9', 'fifthLevel5', 'sixthLevel16', 'seventhLevel16', 'eighthLevel9', 'ninthLevel11', 'tenthLevel12', 'eleventhLevel17', 'twelfthLevel13', 'thirteenthLevel7', 'fourteenthLevel17', 'fifteenthLevel3', 'Station12', 'Finish'] 
+Distance travelled: 249.78960756657048 
+Node Expanded: 18 
+
+
+Bidirectional_Astar: 
+Path: ['Start', 'firstLevel3', 'secondLevel14', 'thirdLevel3', 'fourthLevel5', 'fifthLevel9', 'sixthLevel17', 'seventhLevel6', 'eighthLevel11', 'ninthLevel8', 'tenthLevel9', 'Station30', 'eleventhLevel1', 'twelfthLevel1', 'thirteenthLevel4', 'fourteenthLevel9', 'fifteenthLevel5', 'Finish'] 
+Distance travelled: 408.2808724212125 
+Node Expanded: 512 
+
+
